@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 ModuBoard - Modular Kanban Dashboard
 
 <div align="center">
